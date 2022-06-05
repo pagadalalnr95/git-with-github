@@ -3,3 +3,4 @@ adding the second commit
 adding the third commit
 adding the fourth commit
 working on git stash
+checking merge conflict
